@@ -1,5 +1,8 @@
 # Colour Memory
 
+![Alt text](https://cloud.githubusercontent.com/assets/5222190/13727057/a1ccd596-e91d-11e5-90a4-fdb8cbefb2b2.png "")
+![Alt text](https://cloud.githubusercontent.com/assets/5222190/13727058/a1cd22c6-e91d-11e5-9437-83d14135ea5a.png "")
+
 ##### *Third party libraries using in the project:*
 * Realm DB (https://github.com/realm)
 * RoundedImageView (https://github.com/vinc3m1/RoundedImageView)
